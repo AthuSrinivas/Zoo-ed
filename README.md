@@ -1,5 +1,5 @@
 # Zoo-ed
-Zooed is a Zoo management software where it manages healthcare and adoption of the animals.
+Zoo-ed is a Zoo management software where it manages healthcare and adoption of the animals.
 
 In this software accurate record keeping of situations and practices
 relating directly to animal, healthcare and their adoption is done.
